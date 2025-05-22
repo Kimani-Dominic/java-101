@@ -11,3 +11,6 @@ Variables, Data types & Math operations
 
 ## Day 3
 Type casting, Arrays, Conditionals & Loops
+
+## Day 4
+Classes and Objects
