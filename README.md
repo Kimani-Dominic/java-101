@@ -14,3 +14,9 @@ Type casting, Arrays, Conditionals & Loops
 
 ## Day 4
 Classes and Objects
+
+## Day 5
+Java Dialogue boxes
+
+## Day 6
+Methods & Attributes
