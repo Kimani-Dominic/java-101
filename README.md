@@ -20,3 +20,15 @@ Java Dialogue boxes
 
 ## Day 6
 Methods & Attributes
+
+## Day 7
+Java access modifiers
+ - constructors 
+ - fields 
+ - methods
+
+## Day 8
+Java inheritance
+
+## Day 9
+
